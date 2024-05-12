@@ -1,0 +1,10 @@
+av==11.0.0
+matplotlib==3.8.3
+numpy==1.26.4
+opencv-python==4.9.0.80
+pandas==2.2.1
+requests==2.31.0
+requests-oauthlib==2.0.0
+streamlit==1.32.2
+streamlit-webrtc==0.47.6
+tensorflow==2.15.0
