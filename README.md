@@ -12,6 +12,8 @@
 
 **Movenet_lightning_unit8.tflite** Contains Tensorflow's Movenet lightning model. 
 
+**NamastAI-Report.pdf** is the final report of this project.
+
 **requirements.txt** contains the necessary libraries used. 
 
 
